@@ -30,6 +30,9 @@ You may study `testCaclulate1` as a sample. This test case should make a connect
 What benefit do we have from having integration tests in our project?
 ```
 Your though here
-```
+Answer:
+In our project, integration testing checks if components in BMI calculation functions as expected.
+It ensures the functionality of our application and detect issues and errors.
+ ```
 
 
